@@ -232,16 +232,6 @@ Designed, developed, and deployed multiple production-grade applications utilizi
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshabarlanka&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
