@@ -16,7 +16,7 @@
 
 <br>
 
-<a href="https://harshabarlanka.github.io/Portifolio">
+<a href="https://harshabarlanka.github.io/Harsha-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge"/>
 </a>
 
@@ -214,18 +214,6 @@ Designed, developed, and deployed multiple production-grade applications utilizi
 <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
-</a>
-
 </div>
 
 ---
@@ -320,7 +308,7 @@ open_to:
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://harshabarlanka.github.io/Portifolio">
+<a href="https://harshabarlanka.github.io/Harsha-Portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
