@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Harsha%20Vardhan%20Barlanka&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Flutter+%26+Mobile+Application+Developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Flutter+%26+Mobile+Application+Developer;Open+Source+Contributor"/>
 
 <br>
 
@@ -203,26 +203,6 @@ Designed, developed, and deployed multiple production-grade applications utilizi
 | Mobile Application Development | Built Multiple Flutter Applications |
 
 </div>
-
----
-
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database%20Fundamentals-F80000?style=for-the-badge)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Programming%20%26%20Algorithms-0056D2?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge)
 
 ---
 
