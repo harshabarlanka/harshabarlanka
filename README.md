@@ -52,6 +52,8 @@ I enjoy building real-world applications that focus on performance, scalability,
 
 ### Core Focus Areas
 
+- AI - Software Engineering
+- FASTAPIs
 - Mobile Application Development
 - Flutter Development
 - Android Development
@@ -60,7 +62,6 @@ I enjoy building real-world applications that focus on performance, scalability,
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Software Development
-- AI - Software Engineering
 
 ### Open To
 
