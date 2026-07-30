@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Harsha%20Vardhan%20Barlanka&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Full-Stack+Developer;Flutter+%26+Mobile+Application+Developer;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+Engineer;AI+Software+Engineer;Backend+Developer;Flutter+%26+Mobile+Application+Developer;Open+Source+Contributor"/>
 
 <br>
 
