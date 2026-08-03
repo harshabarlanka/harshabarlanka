@@ -56,6 +56,7 @@ I enjoy building real-world applications that focus on performance, scalability,
 - FASTAPIs
 - PostgreSQL
 - Docker
+- AWS
 - Mobile Application Development
 - Flutter Development
 - Android Development
