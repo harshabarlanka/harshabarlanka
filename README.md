@@ -61,7 +61,6 @@ I enjoy building real-world applications that focus on performance, scalability,
 - Flutter Development
 - Android Development
 - Firebase Development
-- REST API Integration
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Software Development
