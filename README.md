@@ -62,7 +62,6 @@ I enjoy building real-world applications that focus on performance, scalability,
 - Android Development
 - Data Structures & Algorithms
 - Object-Oriented Programming
-- Software Development
 
 ### Open To
 
