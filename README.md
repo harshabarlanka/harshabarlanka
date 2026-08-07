@@ -65,7 +65,7 @@ I enjoy building real-world applications that focus on performance, scalability,
 
 ### Open To
 
-- Software Engineer Roles
+- AI Software Engineer Roles
 - Associate Software Developer Roles
 - Android Developer Roles
 - Flutter Developer Roles
