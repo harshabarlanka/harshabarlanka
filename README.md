@@ -61,6 +61,7 @@ I enjoy building real-world applications that focus on performance, scalability,
 - Mobile Application Development
 - Flutter Development
 - Data Structures & Algorithms
+- Linux
 
 ### Open To
 
