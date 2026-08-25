@@ -178,7 +178,7 @@ Designed, developed, and deployed multiple production-grade applications utilizi
 - Integrated third-party APIs and cloud services
 - Optimized database structures and application performance
 - Practiced agile development methodologies
-- Applied software design principles and clean architecture
+- Applied software principles and clean architecture
 
 **Skills**
 
