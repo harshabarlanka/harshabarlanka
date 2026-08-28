@@ -122,7 +122,7 @@ Built a scalable e-commerce mobile application supporting authentication, produc
 </details>
 
 <details>
-<summary><b>💬 Lingua — Real-Time Multilingual Communication Platform</b></summary>
+<summary><b>💬 Lingua — Real-Time Multilingual Communication</b></summary>
 
 ### AI-Assisted Messaging Platform
 
