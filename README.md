@@ -115,7 +115,7 @@ I enjoy building real-world applications that focus on performance, scalability,
 | Performance | Optimized Firestore queries with pagination |
 | Security | Google OAuth, OTP Authentication |
 | Impact | Improved shopping experience with real-time tracking |
-| Repository | Production |
+| Production |
 
 Built a scalable e-commerce mobile application supporting authentication, product discovery, order tracking, inventory management, and secure user onboarding. Implemented Firebase Firestore architecture and integrated shipment tracking APIs to provide real-time order visibility.
 
