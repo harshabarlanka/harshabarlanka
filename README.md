@@ -46,7 +46,7 @@
 
 Software Engineer specializing in **Mobile Application Development**, **Flutter Development**, and **Full-Stack Application Development**.
 
-Computer Science graduate with hands-on experience building scalable Android and Flutter applications using Firebase and REST APIs. Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, Operating Systems, Computer Networks, and Database Management Systems.
+Computer Science graduate with hands-on experience building scalable Android and Flutter applications using Firebase and REST APIs. Strong foundation in Data Structures, Algorithms, Object-Oriented Programming, Operating Systems, Computer Networks, and Database Management Systems (DBMS).
 
 I enjoy building real-world applications that focus on performance, scalability, and user experience while continuously improving my software engineering skills.
 
