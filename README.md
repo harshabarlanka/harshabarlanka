@@ -149,7 +149,7 @@ Designed and developed a real-time multilingual chat application featuring voice
 | Stack | JavaScript, HTML, CSS, OpenWeather API |
 | Global Weather Monitoring |
 | Performance | Dynamic API Data Rendering |
-| Security | Secure API Handling |
+| Secure API Handling |
 | Real-time Forecast Insights |
 | Repository | Public |
 
