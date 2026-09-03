@@ -177,7 +177,7 @@ Designed, developed, and deployed multiple production-grade applications utilizi
 - Implemented authentication and authorization mechanisms
 - Integrated third-party APIs and cloud services
 - Optimized database structures and application performance
-- Practiced agile development methodologies
+- Practiced agile development 
 - Applied software principles and clean architecture
 
 **Skills**
