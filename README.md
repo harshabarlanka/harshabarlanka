@@ -199,7 +199,7 @@ Designed, developed, and deployed multiple production-grade applications utilizi
 | Recognition | Details |
 |-------------|----------|
 | LeetCode Problem Solving | Solved 350+ Data Structures & Algorithms Problems |
-| Academic Excellence | Ranked 682 among 39,486 Candidates |
+| Academic Excellence | Ranked 681 among 39,486 Candidates |
 | Engineering Graduate | B.Tech Computer Science Engineering (CGPA 8.03) |
 | Mobile Application Development |
 
