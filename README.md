@@ -132,7 +132,7 @@ Built a scalable e-commerce mobile application supporting authentication, produc
 | Scale | Multi-language Communication |
 | Sub-second message delivery |
 | Security | Firebase Authentication |
-| Supports 5+ Languages |
+| Supports 15+ Languages |
 | Repository | Private |
 
 Designed and developed a real-time multilingual chat application featuring voice-to-message conversion, instant translation workflows, and scalable Firestore architecture. Optimized message synchronization and reduced database overhead through efficient collection design.
