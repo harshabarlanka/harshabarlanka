@@ -57,6 +57,7 @@ I enjoy building real-world applications that focus on performance, scalability,
 - Pydantic
 - Alembic
 - PostgreSQL
+- Message Queues
 - Docker
 - AWS
 - Mobile Application Development
