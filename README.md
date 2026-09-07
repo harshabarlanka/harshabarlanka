@@ -58,6 +58,7 @@ I enjoy building real-world applications that focus on performance, scalability,
 - Alembic
 - PostgreSQL
 - Message Queues
+- NVIDIA DeepStream
 - Docker
 - AWS
 - Mobile Application Development
