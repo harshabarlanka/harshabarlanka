@@ -131,7 +131,7 @@ Built a scalable e-commerce mobile application supporting authentication, produc
 | Category | Details |
 |----------|----------|
 | Stack | Flutter, Firebase, Speech-to-Text APIs |
-| Scale | Multi-language Communication |
+| Multi-language Communication |
 | Sub-second message delivery |
 | Security | Firebase Authentication |
 | Supports 15+ Languages |
