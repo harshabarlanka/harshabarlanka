@@ -186,7 +186,6 @@ Designed, developed, and deployed multiple production-grade applications utilizi
 `Flutter`
 `Firebase`
 `Java`
-`Dart`
 `REST APIs`
 `Git`
 `Android SDK`
