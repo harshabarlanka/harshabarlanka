@@ -61,7 +61,6 @@ I enjoy building real-world applications that focus on performance, scalability,
 - NVIDIA DeepStream
 - Docker
 - AWS
-- Mobile Application Development
 - Flutter Development
 - Data Structures & Algorithms
 - Linux
