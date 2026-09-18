@@ -105,7 +105,7 @@ I enjoy building real-world applications that focus on performance, scalability,
 # Featured Projects
 
 <details>
-<summary><b>🛒 BazaarApp — Cross Platform Mobile Commerce Platform</b></summary>
+<summary><b>🛒 BazaarApp — Cross Mobile Commerce Platform</b></summary>
 
 ### Enterprise Mobile Commerce Solution
 
