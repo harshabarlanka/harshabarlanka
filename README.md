@@ -275,7 +275,7 @@ exploring:
 
 open_to:
   - Software Engineer Roles
-  - Android Developer Roles
+  - Android Developer
   - Flutter Developer Roles
   - Entry Level Software Development Opportunities
 ```
