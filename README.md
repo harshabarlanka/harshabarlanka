@@ -70,7 +70,7 @@ I enjoy building real-world applications that focus on performance, and user exp
 - AI Software Engineer Roles
 - Backend Developer Roles
 - Flutter Developer Roles
-- Open Source Collaborations
+- Open Source
 
 ---
 
