@@ -150,7 +150,7 @@ Designed and developed a real-time multilingual chat application featuring voice
 | Global Weather Monitoring |
 | Performance | Dynamic API Data Rendering |
 | Secure API Handling |
-| Real-time Forecast |
+| Real-time |
 | Repository |
 
 Built a responsive weather analytics dashboard capable of fetching and visualizing weather forecasts with intelligent city search, error handling, and API optimization techniques for improved reliability and user experience.
