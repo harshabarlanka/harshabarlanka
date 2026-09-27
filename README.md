@@ -114,7 +114,7 @@ I enjoy building real-world applications that focus on performance, and user exp
 | Stack | Flutter, Firebase, Firestore, REST APIs |
 | Scale | Multi-platform Android & iOS |
 | Performance | Optimized Firestore queries with pagination |
-| Security | Google OAuth, OTP Authentication |
+| Security | Google OAuth, OTP Authentication. |
 | Improved shopping with real-time tracking. |
 
 Built a scalable e-commerce mobile application supporting authentication, product discovery, order tracking, inventory management, and secure user onboarding. Implemented Firebase Firestore architecture and tracking APIs to provide real-time order visibility.
