@@ -113,7 +113,7 @@ I enjoy building real-world applications that focus on performance, and user exp
 |----------|----------|
 | Stack | Flutter, Firebase, Firestore, REST APIs |
 | Scale | Multi-platform Android & iOS |
-| Performance | Optimized Firestore queries with pagination |
+| Performance | Optimized Firestore queries pagination |
 | Security | Google OAuth, OTP Authentication. |
 | Improved shopping with real-time. |
 
