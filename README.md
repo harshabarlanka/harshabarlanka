@@ -63,7 +63,7 @@ I enjoy building real-world applications that focus on performance, and user exp
 - AWS
 - Flutter Development
 - Data Structures & Algorithms
-- Linux
+  
 
 ### Open To
 
