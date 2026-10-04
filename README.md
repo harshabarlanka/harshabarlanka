@@ -62,7 +62,7 @@ I enjoy building real-world applications that focus on performance, and user exp
 - Docker
 - AWS
 - Flutter Development
-- Data Structures & Algorithms
+- Data Structures & Algorithms.
   
 
 ### Open To
