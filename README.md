@@ -1,4 +1,4 @@
-<div align="center">
+o<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Harsha%20Vardhan%20Barlanka&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/>
 
@@ -70,7 +70,7 @@ I enjoy building real-world applications that focus on performance, and user exp
 - AI Software Engineer Roles
 - Backend Developer Roles
 - Flutter Developer Roles
-- Open Source
+- Open Source.
 
 ---
 
