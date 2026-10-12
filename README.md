@@ -168,7 +168,7 @@ Built a responsive weather analytics dashboard capable of fetching and visualizi
 
 **2024 — Present**
 
-Designed, developed, and deployed multiple production-grade applications utilizing Flutter, Firebase, REST APIs, and modern software engineering practices.
+Designed, developed, and deployed multiple production-grade applications utilizing Flutter, Firebase, REST APIs, and modern software engineering practices..
 
 #### Scope of Work
 
